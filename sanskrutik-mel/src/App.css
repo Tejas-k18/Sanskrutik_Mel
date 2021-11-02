@@ -1,0 +1,11 @@
+.app{
+background-color: #f1f2f5;
+/* background-color: antiquewhite; */
+}
+
+.app__body{
+    display: flex;
+    /* background-image: linear-gradient(to left, rgba(235, 94, 94, 0.959) , rgba(239, 243, 190, 0.993)); */
+    background-color: rgba(239, 243, 190, 0.993);
+    
+}
